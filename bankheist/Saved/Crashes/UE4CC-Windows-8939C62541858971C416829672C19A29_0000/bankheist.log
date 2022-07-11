@@ -1,0 +1,1230 @@
+﻿Log file open, 05/08/21 17:16:49
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: bankheist
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.416280
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Etai Pollack/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/projects/bankheist/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/projects/bankheist/Saved/Config/Windows/Engine.ini]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/projects/bankheist/Saved/Config/Windows/Engine.ini]
+[2021.05.08-21.16.51:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/projects/bankheist/Saved/Config/Windows/Engine.ini]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/projects/bankheist/Saved/Config/Windows/Engine.ini]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.08-21.16.51:155][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.08-21.16.51:156][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.08-21.16.51:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/projects/bankheist/Saved/Config/Windows/Engine.ini]
+[2021.05.08-21.16.51:156][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/projects/bankheist/Saved/Config/Windows/Engine.ini]
+[2021.05.08-21.16.51:175][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.08-21.16.51:175][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.08-21.16.51:176][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.08-21.16.51:176][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.08-21.16.51:176][  0]LogHAL: Display: Platform has ~ 16 GB [17087324160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.08-21.16.51:176][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.08-21.16.51:176][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.08-21.16.51:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/projects/bankheist/Saved/Config/Windows/Scalability.ini]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.08-21.16.51:177][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.08-21.16.51:178][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.08-21.16.51:178][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.08-21.16.51:178][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.08-21.16.51:178][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/projects/bankheist/Saved/Config/Windows/Engine.ini]
+[2021.05.08-21.16.51:178][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/projects/bankheist/Saved/Config/Windows/Editor.ini]
+[2021.05.08-21.16.51:178][  0]LogInit: Computer: IPHONE
+[2021.05.08-21.16.51:178][  0]LogInit: User: EtaiPollack
+[2021.05.08-21.16.51:178][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.08-21.16.51:178][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.08-21.16.51:178][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.08-21.16.51:178][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.08-21.16.51:178][  0]LogMemory: Process Physical Memory: 138.64 MB used, 138.64 MB peak
+[2021.05.08-21.16.51:178][  0]LogMemory: Process Virtual Memory: 110.93 MB used, 110.93 MB peak
+[2021.05.08-21.16.51:178][  0]LogMemory: Physical Memory: 9294.08 MB used,  7001.66 MB free, 16295.74 MB total
+[2021.05.08-21.16.51:178][  0]LogMemory: Virtual Memory: 134209112.00 MB used,  8618.31 MB free, 134217728.00 MB total
+[2021.05.08-21.16.51:183][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.08-21.16.51:317][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.08-21.16.51:323][  0]LogInit: Using OS detected language (en-US).
+[2021.05.08-21.16.51:323][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.08-21.16.51:362][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.08-21.16.51:812][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.08-21.16.51:823][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.08-21.16.51:883][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.08-21.16.51:883][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.08-21.16.52:307][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.05.08-21.16.52:307][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.08-21.16.52:307][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.08-21.16.52:307][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.08-21.16.52:452][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.05.08-21.16.52:452][  0]LogD3D11RHI:       8011/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.08-21.16.52:455][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.08-21.16.52:455][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.08-21.16.52:455][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.08-21.16.52:462][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.08-21.16.52:463][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.08-21.16.52:463][  0]LogWindows: EnumDisplayDevices:
+[2021.05.08-21.16.52:463][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.05.08-21.16.52:463][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2021.05.08-21.16.52:463][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.05.08-21.16.52:463][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.05.08-21.16.52:463][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.08-21.16.52:463][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.05.08-21.16.52:463][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.05.08-21.16.52:463][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.05.08-21.16.52:463][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.05.08-21.16.52:531][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.08-21.16.52:531][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.08-21.16.52:531][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.08-21.16.52:532][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2021.05.08-21.16.52:554][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.08-21.16.52:555][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.08-21.16.52:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.08-21.16.53:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.08-21.16.53:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.08-21.16.53:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.08-21.16.53:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.08-21.16.53:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.08-21.16.53:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.08-21.16.53:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.08-21.16.53:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.08-21.16.53:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.08-21.16.53:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.08-21.16.53:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.08-21.16.53:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.08-21.16.53:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.08-21.16.53:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.08-21.16.53:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.08-21.16.53:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.08-21.16.53:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.08-21.16.53:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.08-21.16.53:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.08-21.16.53:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.08-21.16.53:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.08-21.16.53:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.08-21.16.53:251][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.08-21.16.53:284][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.08-21.16.53:537][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.08-21.16.53:537][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (../../../../../projects/bankheist/Intermediate/Shaders/WorkingDirectory/21536/).
+[2021.05.08-21.16.53:537][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Etai Pollack/AppData/Local/Temp/UnrealShaderWorkingDir/0E0B2187427305A6E3F3699C979FCBCE/'.
+[2021.05.08-21.16.53:537][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.08-21.16.53:537][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.08-21.16.54:638][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.08-21.16.54:711][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/Etai Pollack/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.08-21.16.54:711][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Etai Pollack/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.08-21.16.54:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../projects/bankheist/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.08-21.16.54:711][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.08-21.16.54:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../projects/bankheist/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.08-21.16.54:711][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.08-21.16.54:767][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.08-21.16.54:767][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.08-21.16.54:767][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.08-21.16.54:776][  0]LogDerivedDataCache: Speed tests for C:/Users/Etai Pollack/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.08-21.16.54:776][  0]LogDerivedDataCache: Display: Performance to C:/Users/Etai Pollack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=256.54MBs, RandomWriteSpeed=166.38MBs. Assigned SpeedClass 'Local'
+[2021.05.08-21.16.54:777][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Etai Pollack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.08-21.16.54:777][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.08-21.16.54:777][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.08-21.16.54:820][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.08-21.16.54:821][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.08-21.16.54:871][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.05.08-21.16.55:119][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.08-21.16.55:119][  0]LogInit: Active device profile: [0000024B175CA100][0000024B0C2FB3C0 49] Windows
+[2021.05.08-21.16.55:119][  0]LogInit: Profiles: [0000024B175CA100][0000024B0C2FB3C0 49] Windows, [0000024B1754BA00][0000024B0C303540 49] WindowsNoEditor, [0000024B175C8600][0000024B0C2FF680 49] WindowsServer, [0000024B17548B00][0000024B0C3077C0 49] WindowsClient, [0000024B175CB400][0000024B0C30B900 49] IOS, [0000024B1754AE00][0000024B16287A80 49] iPadAir, [0000024B175C9200][0000024B1628BC00 49] iPadAir2, [0000024B174FB600][0000024B16292200 49] IPadPro, [0000024B174FB700][0000024B1628E240 49] iPadAir3, [0000024B175C9000][0000024B162963C0 49] iPadAir4, [0000024B174FA900][0000024B1629A540 49] iPadMini2, [0000024B175C9C00][0000024B1629E6C0 49] iPadMini3, [0000024B174F9500][0000024B162A2840 49] iPadMini4, [0000024B175CAF00][0000024B162A69C0 49] iPadMini5, [0000024B17516F00][0000024B162AEC80 49] iPhone6, [0000024B17517000][0000024B162AACC0 49] iPodTouch6, [0000024B174FB500][0000024B162B6F80 49] iPhone7, [0000024B174FB400][0000024B162B2FC0 49] iPodTouch7, [0000024B17516600][0000024B162BB140 49] iPhone5S, [0000024B174F9700][0000024B162BF2C0 49] iPhone6Plus, [0000024B17514F00][0000024B162C3440 49] iPhone6S, [0000024B174F9100][0000024B162C75C0 49] iPhone6SPlus, [0000024B17515800][0000024B16283700 49] iPhone7Plus, [0000024B174FBD00][0000024B162CB840 49] iPhoneSE, [0000024B17515100][0000024B162CF980 49] iPhone8, [0000024B174F9200][0000024B162D3AC0 49] iPhone8Plus, [0000024B17516100][0000024B162DBC40 49] iPhoneX, [0000024B174F9C00][0000024B162DE100 49] iPhoneXS, [0000024B17514500][0000024B162E2280 49] iPhoneXSMax, [0000024B174F8700][0000024B162E6400 49] iPhoneXR, [0000024B17517400][0000024B162EA580 49] iPhone11, [0000024B174FB100][0000024B162EE700 49] iPhone11Pro, [0000024B17516E00][0000024B162F2880 49] iPhone11ProMax, [0000024B174FBF00][0000024B162F6A00 49] iPhoneSE2, [0000024B17515A00][0000024B162FAB80 49] iPhone12Mini, [0000024B174FA100][0000024B16302D00 49] iPhone12, [0000024B17515300][0000024B16306E80 49] iPhone12Pro, [0000024B174FA700][0000024B1630B000 49] iPhone12ProMax, [0000024B17516800][0000024B1630F180 49] iPadPro105, [0000024B174F9300][0000024B16313300 49] iPadPro129, [0000024B17516700][0000024B16317480 49] iPadPro97, [0000024B174F8500][0000024B1631B600 49] iPadPro2_129, [0000024B17516900][0000024B162D7740 49] iPad5, [0000024B17515F00][0000024B1631F880 49] iPad6, [0000024B17549E00][0000024B163239C0 49] iPad7, [0000024B17514600][0000024B16327B00 49] iPad8, [0000024B1754B200][0000024B1632FC80 49] iPadPro11, [0000024B17514B00][0000024B16332140 49] iPadPro2_11, [0000024B17548100][0000024B163362C0 49] iPadPro3_129, [0000024B17517300][0000024B1633A440 49] iPadPro4_129, [0000024B17548400][0000024B1633E5C0 49] AppleTV, [0000024B17517700][0000024B16342740 49] AppleTV4K, [0000024B17548A00][0000024B163468C0 49] TVOS, [0000024B17516400][0000024B1634AA40 49] Mac, [0000024B17548900][0000024B1634EBC0 49] MacClient, [0000024B1754B600][0000024B16352D40 49] MacNoEditor, [0000024B174F9400][0000024B16356EC0 49] MacServer, [0000024B17548500][0000024B1635B040 49] Linux, [0000024B174FA200][0000024B1635F1C0 49] LinuxAArch64, [0000024B1754A700][0000024B16363340 49] LinuxNoEditor, [0000024B17515000][0000024B163674C0 49] LinuxAArch64NoEditor, [0000024B1754A500][0000024B1636B640 49] LinuxClient, [0000024B17516200][0000024B1636F7C0 49] LinuxAArch64Client, [0000024B1754A100][0000024B1632B900 49] LinuxServer, [0000024B17514E00][0000024B16373A40 49] LinuxAArch64Server, [0000024B17549700][0000024B16377B80 49] Android, [0000024B17514C00][0000024B082BFD00 49] Android_Low, [0000024B17548C00][0000024B082C21C0 49] Android_Mid, [0000024B17515600][0000024B082C6340 49] Android_High, [0000024B1754AC00][0000024B082CA4C0 49] Android_Default, [0000024B17515400][0000024B082CE640 49] Android_Adreno4xx, [0000024B17548E00][0000024B082D27C0 49] Android_Adreno5xx_Low, [0000024B17515900][0000024B082D6940 49] Android_Adreno5xx, [0000024B17549B00][0000024B082DAAC0 49] Android_Adreno6xx, [0000024B17515200][0000024B082DEC40 49] Android_Adreno6xx_Vulkan, [0000024B1754B000][0000024B082E2DC0 49] Android_Mali_T6xx, [0000024B17514100][0000024B082E6F40 49] Android_Mali_T7xx, [0000024B1754A300][0000024B7E4E50C0 49] Android_Mali_T8xx, [0000024B17514900][0000024B7E4E9240 49] Android_Mali_G71, [0000024B17548F00][0000024B7E4ED3C0 49] Android_Mali_G72, [0000024B17517B00][0000024B7E4F1540 49] Android_Mali_G72_Vulkan, [0000024B1754B100][0000024B7E4F56C0 49] Android_Mali_G76, [0000024B17515E00][0000024B7E4F9840 49] Android_Mali_G76_Vulkan, [0000024B17549900][0000024B1637B980 49] Android_Mali_G77, [0000024B17517900][0000024B7E4FDAC0 49] Android_Mali_G77_Vulkan, [0000024B17548200][0000024B7E501C00 49] Android_Vulkan_SM5, [0000024B17517600][0000024B7E5080C0 49] Android_PowerVR_G6xxx, [0000024B1754B400][0000024B7E50C240 49] Android_PowerVR_GT7xxx, [0000024B17514700][0000024B7E5103C0 49] Android_PowerVR_GE8xxx, [0000024B17548300][0000024B7E514540 49] Android_PowerVR_GM9xxx, [0000024B17516C00][0000024B7E5186C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000024B1754B700][0000024B7E51C840 49] Android_TegraK1, [0000024B17516500][0000024B7E5209C0 49] Android_Unknown_Vulkan, [0000024B1754BC00][0000024B7E524B40 49] Lumin, [0000024B17514800][0000024B7E528CC0 49] Lumin_Desktop, [0000024B1754AF00][0000024B7E52CE40 49] HoloLens, 
+[2021.05.08-21.16.55:502][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.08-21.16.55:502][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.08-21.16.55:502][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.08-21.16.55:502][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.08-21.16.55:502][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.08-21.16.55:550][  0]LogNetVersion: bankheist 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1781450000)
+[2021.05.08-21.16.57:453][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.08-21.16.57:488][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.035316 seconds
+[2021.05.08-21.16.57:493][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.08-21.16.57:493][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.08-21.16.57:493][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.08-21.16.59:395][  0]LogPython: Using Python 3.7.7
+[2021.05.08-21.17.00:407][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.08-21.17.00:423][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.08-21.17.00:771][  0]SourceControl: Source control is disabled
+[2021.05.08-21.17.00:771][  0]SourceControl: Source control is disabled
+[2021.05.08-21.17.00:797][  0]SourceControl: Source control is disabled
+[2021.05.08-21.17.00:809][  0]SourceControl: Source control is disabled
+[2021.05.08-21.17.00:821][  0]SourceControl: Source control is disabled
+[2021.05.08-21.17.00:831][  0]LogUProjectInfo: Found projects:
+[2021.05.08-21.17.01:866][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.08-21.17.01:937][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.08-21.17.01:937][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.08-21.17.02:156][  0]LogCollectionManager: Loaded 0 collections in 0.000614 seconds
+[2021.05.08-21.17.02:288][  0]LogFileCache: Scanning file cache for directory 'D:/projects/bankheist/Saved/Collections/' took 0.00s
+[2021.05.08-21.17.02:288][  0]LogFileCache: Scanning file cache for directory 'D:/projects/bankheist/Content/Developers/EtaiPollack/Collections/' took 0.00s
+[2021.05.08-21.17.02:288][  0]LogFileCache: Scanning file cache for directory 'D:/projects/bankheist/Content/Collections/' took 0.00s
+[2021.05.08-21.17.02:288][  0]LogOcInput: OculusInput pre-init called
+[2021.05.08-21.17.02:343][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.08-21.17.02:343][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.08-21.17.02:777][  0]LogEngine: Initializing Engine...
+[2021.05.08-21.17.02:831][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.05.08-21.17.02:831][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.08-21.17.02:832][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.08-21.17.02:921][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.08-21.17.02:996][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.08-21.17.02:996][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.08-21.17.03:000][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.08-21.17.03:000][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.08-21.17.03:000][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.08-21.17.03:000][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.08-21.17.03:000][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.08-21.17.03:000][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.08-21.17.03:000][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.08-21.17.03:000][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.08-21.17.03:000][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.08-21.17.03:000][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.08-21.17.03:000][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.08-21.17.03:000][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.08-21.17.03:036][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.08-21.17.03:036][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.08-21.17.03:084][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.05.08-21.17.03:086][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.08-21.17.03:088][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.08-21.17.03:088][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.08-21.17.03:089][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.08-21.17.03:089][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.08-21.17.03:089][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.08-21.17.03:090][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.08-21.17.03:090][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.08-21.17.03:090][  0]LogInit: FAudioDevice initialized.
+[2021.05.08-21.17.03:090][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.08-21.17.03:090][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.08-21.17.03:136][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/Etai Pollack/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.08-21.17.03:136][  0]LogInit: Texture streaming: Enabled
+[2021.05.08-21.17.03:163][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.08-21.17.03:179][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.08-21.17.03:237][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={52554737-42AB-FFA7-2DAD-2A977A5FD240}
+[2021.05.08-21.17.03:237][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.08-21.17.03:251][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.08-21.17.03:326][  0]LogInit: Transaction tracking system initialized
+[2021.05.08-21.17.03:507][  0]BlueprintLog: New page: Editor Load
+[2021.05.08-21.17.03:815][  0]LocalizationService: Localization service is disabled
+[2021.05.08-21.17.03:903][  0]TimingProfiler: Initialize
+[2021.05.08-21.17.03:903][  0]TimingProfiler: OnSessionChanged
+[2021.05.08-21.17.03:903][  0]LoadingProfiler: Initialize
+[2021.05.08-21.17.03:903][  0]LoadingProfiler: OnSessionChanged
+[2021.05.08-21.17.03:903][  0]NetworkingProfiler: Initialize
+[2021.05.08-21.17.03:903][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.08-21.17.03:903][  0]MemoryProfiler: Initialize
+[2021.05.08-21.17.03:903][  0]MemoryProfiler: OnSessionChanged
+[2021.05.08-21.17.04:703][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.08-21.17.04:703][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.08-21.17.04:930][  0]LogFileCache: Scanning file cache for directory 'D:/projects/bankheist/Content/' took 0.01s
+[2021.05.08-21.17.05:907][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.08-21.17.05:918][  0]SourceControl: Source control is disabled
+[2021.05.08-21.17.05:918][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.360
+[2021.05.08-21.17.05:918][  0]Cmd: MAP LOAD FILE="../../../../../projects/bankheist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.08-21.17.05:918][  0]LightingResults: New page: Lighting Build
+[2021.05.08-21.17.05:929][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.08-21.17.05:929][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.08-21.17.05:929][  0]MapCheck: New page: Map Check
+[2021.05.08-21.17.05:929][  0]LightingResults: New page: Lighting Build
+[2021.05.08-21.17.05:934][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.05.08-21.17.06:133][  0]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Downtown_West\Assets\foliage\grass_patches\MI_Grass_Patches.uasset: Failed to load '/Game/ProceduralNtr_vol2/pnp_v2_assets/Textures/Wind/wind_normal': Can't find file.
+[2021.05.08-21.17.06:133][  0]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Downtown_West\Assets\foliage\grass_patches\MI_Grass_Patches.uasset: Failed to load '/Game/ProceduralNtr_vol2/pnp_v2_assets/Textures/Wind/wind_normal': Can't find file.
+[2021.05.08-21.17.06:133][  0]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Downtown_West\Assets\foliage\grass_patches\MI_Grass_Patches.uasset: Failed to load '/Game/ProceduralNtr_vol2/pnp_v2_assets/Textures/Wind/wind_normal': Can't find file.
+[2021.05.08-21.17.06:186][  0]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Downtown_West\Assets\foliage\grass_patches\MI_Grass_Patches.uasset: Failed to load '/Game/ProceduralNtr_vol2/pnp_v2_assets/Textures/Wind/wind_normal': Can't find file.
+[2021.05.08-21.17.06:187][  0]LoadErrors: Failed to load /Game/ProceduralNtr_vol2/pnp_v2_assets/Textures/Wind/wind_normal.wind_normal Referenced by MI_Grass_Patches
+[2021.05.08-21.17.06:558][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.08-21.17.06:559][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.08-21.17.06:585][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.08-21.17.06:591][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.08-21.17.06:591][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.08-21.17.06:591][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2021.05.08-21.17.06:591][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.674
+[2021.05.08-21.17.06:593][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.036
+[2021.05.08-21.17.06:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.08-21.17.06:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.08-21.17.06:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.08-21.17.06:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.08-21.17.06:807][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3628 classes and 872 folders.
+[2021.05.08-21.17.06:814][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.08-21.17.06:844][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.08-21.17.06:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.08-21.17.06:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.05.08-21.17.06:856][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.08-21.17.06:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.08-21.17.06:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.08-21.17.06:868][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.08-21.17.06:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.08-21.17.06:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.08-21.17.06:879][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.08-21.17.06:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.08-21.17.06:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.08-21.17.06:881][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.08-21.17.06:882][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:882][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.08-21.17.06:882][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.08-21.17.06:892][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.08-21.17.06:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.08-21.17.06:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.08-21.17.06:903][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.08-21.17.06:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.08-21.17.06:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.08-21.17.06:915][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.08-21.17.06:915][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.08-21.17.06:915][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.08-21.17.06:927][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.08-21.17.06:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.08-21.17.06:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.08-21.17.06:938][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.08-21.17.06:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.08-21.17.06:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.08-21.17.06:950][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.08-21.17.06:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.08-21.17.06:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.05.08-21.17.06:962][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.08-21.17.06:962][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.08-21.17.06:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.08-21.17.06:973][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.08-21.17.06:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.08-21.17.06:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.08-21.17.06:975][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.08-21.17.06:975][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:975][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.08-21.17.06:975][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.05.08-21.17.06:985][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.08-21.17.06:985][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.06:985][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.08-21.17.06:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.08-21.17.07:033][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.08-21.17.07:033][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:033][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.08-21.17.07:033][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.05.08-21.17.07:053][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.08-21.17.07:053][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:053][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.08-21.17.07:053][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.05.08-21.17.07:065][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.08-21.17.07:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.08-21.17.07:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.05.08-21.17.07:077][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.08-21.17.07:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.08-21.17.07:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.05.08-21.17.07:078][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.08-21.17.07:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.08-21.17.07:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.05.08-21.17.07:079][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.08-21.17.07:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.08-21.17.07:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.05.08-21.17.07:081][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.08-21.17.07:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.08-21.17.07:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.05.08-21.17.07:082][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.08-21.17.07:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.08-21.17.07:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.05.08-21.17.07:083][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.08-21.17.07:083][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:083][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.08-21.17.07:083][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.05.08-21.17.07:084][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.08-21.17.07:084][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:084][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.08-21.17.07:084][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.05.08-21.17.07:085][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.08-21.17.07:085][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.08-21.17.07:085][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.08-21.17.07:085][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.05.08-21.17.07:404][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.08-21.17.07:405][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.05.08-21.17.07:428][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.08-21.17.07:429][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.08-21.17.07:447][  0]LogSlate: Took 0.013020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.08-21.17.07:518][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2021.05.08-21.17.07:775][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.08-21.17.07:775][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.08-21.17.07:775][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.08-21.17.07:775][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.08-21.17.07:775][  0]LogLoad: (Engine Initialization) Total time: 23.22 seconds
+[2021.05.08-21.17.07:775][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.08-21.17.07:775][  0]LogInit: First time updating LLM stats...
+[2021.05.08-21.17.07:820][  0]LogAssetRegistry: Asset discovery search completed in 12.9494 seconds
+[2021.05.08-21.17.07:821][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.08-21.17.07:843][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.08-21.17.07:900][  0]LogSlate: Took 0.017727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.08-21.17.19:703][836]LogSlate: Window 'Message Log' being destroyed
+[2021.05.08-21.17.19:721][836]LogSlate: Window 'Message Log' being destroyed
+[2021.05.08-21.17.29:130][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.08-21.17.30:342][ 24]Cmd: EDIT COPY
+[2021.05.08-21.17.30:626][ 24]Cmd: EDIT PASTE
+[2021.05.08-21.18.27:490][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Albedo_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:490][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Albedo_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:490][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Normal_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:490][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Normal_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:490][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Roughness_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:491][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Roughness_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:491][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Albedo_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:491][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Normal_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:491][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Roughness_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:492][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Albedo_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:492][233]LoadErrors: Failed to load /Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Albedo_8K_sjfnbeaa.Albedo_8K_sjfnbeaa Referenced by Fine_American_Road_sjfnbeaa_inst
+[2021.05.08-21.18.27:492][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Normal_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:492][233]LoadErrors: Failed to load /Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Normal_8K_sjfnbeaa.Normal_8K_sjfnbeaa Referenced by Fine_American_Road_sjfnbeaa_inst
+[2021.05.08-21.18.27:492][233]LogLinker: Warning: [AssetLog] D:\projects\bankheist\Content\Megascans\Surfaces\Fine_American_Road_sjfnbeaa\Fine_American_Road_sjfnbeaa_inst.uasset: Failed to load '/Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Roughness_8K_sjfnbeaa': Can't find file.
+[2021.05.08-21.18.27:492][233]LoadErrors: Failed to load /Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa/Roughness_8K_sjfnbeaa.Roughness_8K_sjfnbeaa Referenced by Fine_American_Road_sjfnbeaa_inst
+[2021.05.08-21.18.31:935][689]Cmd: TRANSACTION UNDO
+[2021.05.08-21.18.31:935][689]LogEditorTransaction: Undo Create Actors
+[2021.05.08-21.18.31:943][689]LogSlate: Took 0.001054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2021.05.08-21.18.51:449][662]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.18.51:449][662]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.18.51:449][662]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.18.51:449][662]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.18.51:449][662]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.18.51:449][662]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.18.51:449][662]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.18.51:449][662]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.18.51:449][662]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.19.02:374][662]LogSlate: Window 'Message' being destroyed
+[2021.05.08-21.19.02:379][662]Message dialog closed, result: Yes, title: Message, text: The asset Fine American Road already exists at /Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa. Do you want to import this asset.?
+[2021.05.08-21.19.02:761][662]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\surface\asphalt_fine_sjfnbeaa\sjfnbeaa_8K_Albedo.jpg)
+[2021.05.08-21.19.03:469][662]LogTexture: Display: Building textures: Albedo_8K_sjfnbeaa (AutoDXT, 8192X8192)
+[2021.05.08-21.19.15:272][662]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\surface\asphalt_fine_sjfnbeaa\sjfnbeaa_8K_Displacement.exr)
+[2021.05.08-21.19.16:768][662]LogTexture: Display: Building textures: Displacement_8K_sjfnbeaa (RGBA16F, 8192X8192)
+[2021.05.08-21.19.20:305][662]LogTexture: Display: Building textures: Displacement_8K_sjfnbeaa (BC4, 8192X8192)
+[2021.05.08-21.19.22:843][662]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\surface\asphalt_fine_sjfnbeaa\sjfnbeaa_8K_Normal.jpg)
+[2021.05.08-21.19.24:043][662]LogTexture: Display: Building textures: Normal_8K_sjfnbeaa (BC5, 8192X8192)
+[2021.05.08-21.19.26:054][662]LogTexture: Display: Building textures: Normal_8K_sjfnbeaa (BC5, 8192X8192)
+[2021.05.08-21.19.29:039][662]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\surface\asphalt_fine_sjfnbeaa\sjfnbeaa_8K_Roughness.jpg)
+[2021.05.08-21.19.29:562][662]LogTexture: Display: Building textures: Roughness_8K_sjfnbeaa (AutoDXT, 8192X8192)
+[2021.05.08-21.19.35:876][662]LogTexture: Display: Building textures: Roughness_8K_sjfnbeaa (BC4, 8192X8192)
+[2021.05.08-21.19.37:242][662]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Fine_American_Road_sjfnbeaa_00_i9C0A2AA04306F1598898CDAFC50011D9.tmp' to '../../../../../projects/bankheist/Content/Megascans/Surfaces/Fine_American_Road_sjfnbeaa_00/Fine_American_Road_sjfnbeaa_00_inst.uasset'
+[2021.05.08-21.19.37:374][662]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2021.05.08-21.19.37:374][662]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.19.37:374][662]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.19.37:374][662]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.19.37:374][662]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.19.37:374][662]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.19.37:374][662]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.19.37:374][662]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.19.37:374][662]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.19.37:374][662]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.19.37:374][662]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.19.37:374][662]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.19.37:374][662]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.19.37:458][662]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_8K_Albedo.jpg)
+[2021.05.08-21.19.38:059][662]LogTexture: Display: Building textures: Albedo_8K_vckoejddw (AutoDXT, 8192X8192)
+[2021.05.08-21.19.46:506][662]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_8K_Normal_LOD0.jpg)
+[2021.05.08-21.19.47:409][662]LogTexture: Display: Building textures: Normal_8K_LOD0_vckoejddw (BC5, 8192X8192)
+[2021.05.08-21.19.49:305][662]LogTexture: Display: Building textures: Normal_8K_LOD0_vckoejddw (BC5, 8192X8192)
+[2021.05.08-21.19.51:287][662]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_8K_Roughness.jpg)
+[2021.05.08-21.19.51:676][662]LogTexture: Display: Building textures: Roughness_8K_vckoejddw (AutoDXT, 8192X8192)
+[2021.05.08-21.19.54:029][662]LogTexture: Display: Building textures: Roughness_8K_vckoejddw (BC4, 8192X8192)
+[2021.05.08-21.19.55:364][662]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_vckoejddw_inst59FFCF014237C3E13ED778A4C148C8F9.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_vckoejddw_inst.uasset'
+[2021.05.08-21.19.55:955][662]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_LOD0.fbx)
+[2021.05.08-21.19.56:199][662]LogFbx: Loading FBX Scene from D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_LOD0.fbx
+[2021.05.08-21.19.56:247][662]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.08-21.19.56:378][662]LogFbx: Display: Triangulating static mesh Aset_street__S_vckoejddw_00_LOD0
+[2021.05.08-21.19.56:480][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0...
+[2021.05.08-21.19.56:682][662]LogStaticMesh: Built static mesh [0.20s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0
+[2021.05.08-21.19.56:829][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0...
+[2021.05.08-21.19.56:891][662]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0
+[2021.05.08-21.19.56:909][662]LogFbx: Display: Triangulating static mesh Aset_street__S_vckoejddw_02_LOD0
+[2021.05.08-21.19.56:956][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0...
+[2021.05.08-21.19.57:031][662]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0
+[2021.05.08-21.19.57:053][662]LogFbx: Display: Triangulating static mesh Aset_street__S_vckoejddw_03_LOD0
+[2021.05.08-21.19.57:092][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0...
+[2021.05.08-21.19.57:152][662]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0
+[2021.05.08-21.19.57:265][662]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.08-21.19.57:819][662]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_LOD2.fbx)
+[2021.05.08-21.19.57:827][662]LogFbx: Loading FBX Scene from D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_LOD2.fbx
+[2021.05.08-21.19.57:839][662]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.08-21.19.57:846][662]LogStaticMesh: Building static mesh vckoejddw_LOD2_Aset_street__S_vckoejddw_00_LOD2...
+[2021.05.08-21.19.57:862][662]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD2_Aset_street__S_vckoejddw_00_LOD2.vckoejddw_LOD2_Aset_street__S_vckoejddw_00_LOD2
+[2021.05.08-21.19.57:884][662]LogStaticMesh: Building static mesh vckoejddw_LOD2_Aset_street__S_vckoejddw_01_LOD2...
+[2021.05.08-21.19.57:899][662]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD2_Aset_street__S_vckoejddw_01_LOD2.vckoejddw_LOD2_Aset_street__S_vckoejddw_01_LOD2
+[2021.05.08-21.19.57:910][662]LogStaticMesh: Building static mesh vckoejddw_LOD2_Aset_street__S_vckoejddw_02_LOD2...
+[2021.05.08-21.19.57:928][662]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD2_Aset_street__S_vckoejddw_02_LOD2.vckoejddw_LOD2_Aset_street__S_vckoejddw_02_LOD2
+[2021.05.08-21.19.57:940][662]LogStaticMesh: Building static mesh vckoejddw_LOD2_Aset_street__S_vckoejddw_03_LOD2...
+[2021.05.08-21.19.57:957][662]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD2_Aset_street__S_vckoejddw_03_LOD2.vckoejddw_LOD2_Aset_street__S_vckoejddw_03_LOD2
+[2021.05.08-21.19.57:997][662]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.08-21.19.58:042][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0...
+[2021.05.08-21.19.58:143][662]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0
+[2021.05.08-21.19.58:283][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0...
+[2021.05.08-21.19.58:371][662]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0
+[2021.05.08-21.19.58:501][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0...
+[2021.05.08-21.19.58:613][662]LogStaticMesh: Built static mesh [0.11s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0
+[2021.05.08-21.19.58:743][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0...
+[2021.05.08-21.19.58:835][662]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0
+[2021.05.08-21.19.58:921][662]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD2_Aset_street__S_vckoejddw_03_LOD2.vckoejddw_LOD2_Aset_street__S_vckoejddw_03_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD2_Aset_street__S_vckoejddw_02_LOD2.vckoejddw_LOD2_Aset_street__S_vckoejddw_02_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD2_Aset_street__S_vckoejddw_01_LOD2.vckoejddw_LOD2_Aset_street__S_vckoejddw_01_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD2_Aset_street__S_vckoejddw_00_LOD2.vckoejddw_LOD2_Aset_street__S_vckoejddw_00_LOD2
+[2021.05.08-21.20.02:551][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.08-21.20.02:629][662]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_LOD4.fbx)
+[2021.05.08-21.20.02:636][662]LogFbx: Loading FBX Scene from D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_street_vckoejddw\vckoejddw_LOD4.fbx
+[2021.05.08-21.20.02:643][662]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.08-21.20.02:645][662]LogStaticMesh: Building static mesh vckoejddw_LOD4_Aset_street__S_vckoejddw_00_LOD4...
+[2021.05.08-21.20.02:650][662]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD4_Aset_street__S_vckoejddw_00_LOD4.vckoejddw_LOD4_Aset_street__S_vckoejddw_00_LOD4
+[2021.05.08-21.20.02:653][662]LogStaticMesh: Building static mesh vckoejddw_LOD4_Aset_street__S_vckoejddw_01_LOD4...
+[2021.05.08-21.20.02:658][662]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD4_Aset_street__S_vckoejddw_01_LOD4.vckoejddw_LOD4_Aset_street__S_vckoejddw_01_LOD4
+[2021.05.08-21.20.02:661][662]LogStaticMesh: Building static mesh vckoejddw_LOD4_Aset_street__S_vckoejddw_02_LOD4...
+[2021.05.08-21.20.02:665][662]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD4_Aset_street__S_vckoejddw_02_LOD4.vckoejddw_LOD4_Aset_street__S_vckoejddw_02_LOD4
+[2021.05.08-21.20.02:668][662]LogStaticMesh: Building static mesh vckoejddw_LOD4_Aset_street__S_vckoejddw_03_LOD4...
+[2021.05.08-21.20.02:672][662]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD4_Aset_street__S_vckoejddw_03_LOD4.vckoejddw_LOD4_Aset_street__S_vckoejddw_03_LOD4
+[2021.05.08-21.20.02:683][662]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.08-21.20.02:692][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0...
+[2021.05.08-21.20.02:789][662]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_00_LOD0
+[2021.05.08-21.20.02:915][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0...
+[2021.05.08-21.20.03:004][662]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_01_LOD0
+[2021.05.08-21.20.03:125][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0...
+[2021.05.08-21.20.03:228][662]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_02_LOD0
+[2021.05.08-21.20.03:360][662]LogStaticMesh: Building static mesh vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0...
+[2021.05.08-21.20.03:453][662]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0.vckoejddw_LOD0_Aset_street__S_vckoejddw_03_LOD0
+[2021.05.08-21.20.03:497][662]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD4_Aset_street__S_vckoejddw_03_LOD4.vckoejddw_LOD4_Aset_street__S_vckoejddw_03_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD4_Aset_street__S_vckoejddw_02_LOD4.vckoejddw_LOD4_Aset_street__S_vckoejddw_02_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD4_Aset_street__S_vckoejddw_01_LOD4.vckoejddw_LOD4_Aset_street__S_vckoejddw_01_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Lods/vckoejddw_LOD4_Aset_street__S_vckoejddw_00_LOD4.vckoejddw_LOD4_Aset_street__S_vckoejddw_00_LOD4
+[2021.05.08-21.20.03:601][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.08-21.20.03:815][662]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_1
+[2021.05.08-21.20.03:898][662]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_LOD0_vckoejddw_62D10FE74294290AD853ACB4962643BA.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_1.uasset'
+[2021.05.08-21.20.03:904][662]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_1
+[2021.05.08-21.20.03:938][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.08-21.20.03:949][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.08-21.20.03:953][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.08-21.20.04:132][662]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_2
+[2021.05.08-21.20.04:188][662]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_LOD0_vckoejddw_D5DDEF0840317B47AADDF697008A4280.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_2.uasset'
+[2021.05.08-21.20.04:194][662]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_2
+[2021.05.08-21.20.04:232][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.08-21.20.04:243][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.08-21.20.04:246][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.05.08-21.20.04:392][662]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_3
+[2021.05.08-21.20.04:448][662]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_LOD0_vckoejddw_24D04E314106DE5A5AB8999A2D0C4A65.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_3.uasset'
+[2021.05.08-21.20.04:480][662]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_3
+[2021.05.08-21.20.04:515][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.08-21.20.04:528][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.08-21.20.04:531][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.08-21.20.04:667][662]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_4
+[2021.05.08-21.20.04:749][662]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_LOD0_vckoejddw_3A89CD6149DB63B9D57833AA5EEC24C6.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_4.uasset'
+[2021.05.08-21.20.04:756][662]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_4
+[2021.05.08-21.20.04:792][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.08-21.20.04:800][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.08-21.20.04:803][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.08-21.20.05:113][663]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.08-21.20.05:113][663]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_4.Modular_Curb_Kit_LOD0_vckoejddw_4
+[2021.05.08-21.20.05:114][663]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_3.Modular_Curb_Kit_LOD0_vckoejddw_3
+[2021.05.08-21.20.05:114][663]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_2.Modular_Curb_Kit_LOD0_vckoejddw_2
+[2021.05.08-21.20.05:114][663]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_LOD0_vckoejddw_1.Modular_Curb_Kit_LOD0_vckoejddw_1
+[2021.05.08-21.20.05:114][663]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Modular_Curb_Kit_vckoejddw/Modular_Curb_Kit_vckoejddw_inst.Modular_Curb_Kit_vckoejddw_inst
+[2021.05.08-21.20.05:114][663]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Fine_American_Road_sjfnbeaa_00/Fine_American_Road_sjfnbeaa_00_inst.Fine_American_Road_sjfnbeaa_00_inst
+[2021.05.08-21.20.10:173][ 21]LogSlate: Window 'Message Log' being destroyed
+[2021.05.08-21.20.10:192][ 21]LogSlate: Window 'Message Log' being destroyed
+[2021.05.08-21.20.25:718][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.08-21.20.26:052][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.08-21.20.26:127][492]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/ThirdPersonExampleMapF98C499A4EB23BA733FD23B0F914F8AA.tmp' to '../../../../../projects/bankheist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.08-21.20.26:276][492]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/ThirdPersonExampleMap_BuiltDataD4E8400C4491F90C25AA84B579A596E5.tmp' to '../../../../../projects/bankheist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.08-21.20.26:285][492]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.08-21.20.26:285][492]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.08-21.20.26:285][492]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.08-21.20.31:236][893]LogMaterial: Display: Missing cached shader map for material Albedo_8K_vckoejddw_Mat, compiling. 
+[2021.05.08-21.20.31:332][893]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.05.08-21.20.31:332][893]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.05.08-21.20.31:332][893]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.05.08-21.20.31:332][893]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.05.08-21.20.31:332][893]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.05.08-21.20.31:332][893]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.05.08-21.20.32:630][975]Cmd: TRANSACTION UNDO
+[2021.05.08-21.20.32:630][975]LogEditorTransaction: Undo Create Actors
+[2021.05.08-21.20.34:164][ 29]LogActorFactory: Actor Factory created Modular_Curb_Kit_LOD0_vckoejddw_1
+[2021.05.08-21.20.35:401][ 87]LogActorFactory: Actor Factory created Modular_Curb_Kit_LOD0_vckoejddw_1
+[2021.05.08-21.20.41:203][680]Cmd: DELETE
+[2021.05.08-21.20.41:226][680]Cmd: ACTOR DELETE
+[2021.05.08-21.20.41:256][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.08-21.20.41:260][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.08-21.20.41:261][680]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.05.08-21.21.02:557][563]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2021.05.08-21.21.02:557][563]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.21.02:557][563]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.21.02:557][563]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.21.02:557][563]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.21.02:557][563]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.21.02:557][563]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.21.02:557][563]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.21.02:557][563]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.21.02:557][563]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.21.02:557][563]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.21.02:557][563]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.21.02:557][563]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.21.02:883][563]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_8K_Albedo.jpg)
+[2021.05.08-21.21.03:488][563]LogTexture: Display: Building textures: Albedo_8K_uhxuedcdw (AutoDXT, 8192X8192)
+[2021.05.08-21.21.13:573][563]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_8K_Normal_LOD0.jpg)
+[2021.05.08-21.21.14:343][563]LogTexture: Display: Building textures: Normal_8K_LOD0_uhxuedcdw (BC5, 8192X8192)
+[2021.05.08-21.21.16:161][563]LogTexture: Display: Building textures: Normal_8K_LOD0_uhxuedcdw (BC5, 8192X8192)
+[2021.05.08-21.21.18:211][563]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_8K_Roughness.jpg)
+[2021.05.08-21.21.18:688][563]LogTexture: Display: Building textures: Roughness_8K_uhxuedcdw (AutoDXT, 8192X8192)
+[2021.05.08-21.21.23:658][563]LogTexture: Display: Building textures: Roughness_8K_uhxuedcdw (BC4, 8192X8192)
+[2021.05.08-21.21.25:005][563]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_uhxuedcdw_inst949E06D14D9E5DC5EED8F4A8C921403A.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_uhxuedcdw_inst.uasset'
+[2021.05.08-21.21.25:054][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_LOD0.fbx)
+[2021.05.08-21.21.25:062][563]LogFbx: Loading FBX Scene from D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_LOD0.fbx
+[2021.05.08-21.21.25:073][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.08-21.21.25:089][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0...
+[2021.05.08-21.21.25:146][563]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0
+[2021.05.08-21.21.25:171][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0...
+[2021.05.08-21.21.25:205][563]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0
+[2021.05.08-21.21.25:226][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0...
+[2021.05.08-21.21.25:261][563]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0
+[2021.05.08-21.21.25:291][563]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.08-21.21.25:541][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_LOD2.fbx)
+[2021.05.08-21.21.25:553][563]LogFbx: Loading FBX Scene from D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_LOD2.fbx
+[2021.05.08-21.21.25:561][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.08-21.21.25:570][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_00_LOD2...
+[2021.05.08-21.21.25:594][563]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_00_LOD2.uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_00_LOD2
+[2021.05.08-21.21.25:608][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_01_LOD2...
+[2021.05.08-21.21.25:627][563]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_01_LOD2.uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_01_LOD2
+[2021.05.08-21.21.25:640][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_02_LOD2...
+[2021.05.08-21.21.25:660][563]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_02_LOD2.uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_02_LOD2
+[2021.05.08-21.21.25:678][563]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.08-21.21.25:694][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0...
+[2021.05.08-21.21.25:774][563]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0
+[2021.05.08-21.21.25:834][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0...
+[2021.05.08-21.21.25:897][563]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0
+[2021.05.08-21.21.25:952][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0...
+[2021.05.08-21.21.26:017][563]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0
+[2021.05.08-21.21.26:043][563]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_02_LOD2.uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_02_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_01_LOD2.uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_01_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_00_LOD2.uhxuedcdw_LOD2_Aset_modular_urban_S_uhxuedcdw_00_LOD2
+[2021.05.08-21.21.26:164][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.08-21.21.26:200][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_LOD4.fbx)
+[2021.05.08-21.21.26:207][563]LogFbx: Loading FBX Scene from D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\3d_modular_uhxuedcdw\uhxuedcdw_LOD4.fbx
+[2021.05.08-21.21.26:215][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.08-21.21.26:221][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_00_LOD4...
+[2021.05.08-21.21.26:238][563]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_00_LOD4.uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_00_LOD4
+[2021.05.08-21.21.26:247][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_01_LOD4...
+[2021.05.08-21.21.26:261][563]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_01_LOD4.uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_01_LOD4
+[2021.05.08-21.21.26:269][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_02_LOD4...
+[2021.05.08-21.21.26:283][563]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_02_LOD4.uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_02_LOD4
+[2021.05.08-21.21.26:295][563]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.08-21.21.26:307][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0...
+[2021.05.08-21.21.26:396][563]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_00_LOD0
+[2021.05.08-21.21.26:457][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0...
+[2021.05.08-21.21.26:533][563]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_01_LOD0
+[2021.05.08-21.21.26:586][563]LogStaticMesh: Building static mesh uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0...
+[2021.05.08-21.21.26:661][563]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0.uhxuedcdw_LOD0_Aset_modular_urban_S_uhxuedcdw_02_LOD0
+[2021.05.08-21.21.26:686][563]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_02_LOD4.uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_02_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_01_LOD4.uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_01_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Lods/uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_00_LOD4.uhxuedcdw_LOD4_Aset_modular_urban_S_uhxuedcdw_00_LOD4
+[2021.05.08-21.21.26:782][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.08-21.21.26:882][563]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_1
+[2021.05.08-21.21.26:943][563]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_LOD0_uhxuedcdw_D177CC6A4F9BB749F6530095D6AA276A.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_1.uasset'
+[2021.05.08-21.21.26:946][563]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_1
+[2021.05.08-21.21.26:972][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.08-21.21.26:979][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.08-21.21.26:983][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.08-21.21.27:091][563]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_2
+[2021.05.08-21.21.27:136][563]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_LOD0_uhxuedcdw_46ADEB6548D4D9651B447E89F5A7D6E6.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_2.uasset'
+[2021.05.08-21.21.27:139][563]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_2
+[2021.05.08-21.21.27:167][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.08-21.21.27:174][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.08-21.21.27:177][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.08-21.21.27:286][563]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_3
+[2021.05.08-21.21.27:364][563]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/Modular_Curb_Kit_LOD0_uhxuedcdw_63E9E73C4EDE6F2A6B480EB228AB6327.tmp' to '../../../../../projects/bankheist/Content/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_3.uasset'
+[2021.05.08-21.21.27:367][563]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_3
+[2021.05.08-21.21.27:396][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.08-21.21.27:403][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.08-21.21.27:406][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.08-21.21.27:629][564]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.08-21.21.27:629][564]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_3.Modular_Curb_Kit_LOD0_uhxuedcdw_3
+[2021.05.08-21.21.27:629][564]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_2.Modular_Curb_Kit_LOD0_uhxuedcdw_2
+[2021.05.08-21.21.27:629][564]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_LOD0_uhxuedcdw_1.Modular_Curb_Kit_LOD0_uhxuedcdw_1
+[2021.05.08-21.21.27:629][564]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Modular_Curb_Kit_uhxuedcdw/Modular_Curb_Kit_uhxuedcdw_inst.Modular_Curb_Kit_uhxuedcdw_inst
+[2021.05.08-21.22.09:268][857]LogSlate: Window 'Message Log' being destroyed
+[2021.05.08-21.22.09:294][857]LogSlate: Window 'Message Log' being destroyed
+[2021.05.08-21.22.17:475][570]LogActorFactory: Actor Factory created Modular_Curb_Kit_LOD0_uhxuedcdw_2
+[2021.05.08-21.22.17:830][611]LogActorFactory: Actor Factory created Modular_Curb_Kit_LOD0_uhxuedcdw_2
+[2021.05.08-21.22.54:000][620]LogActorFactory: Actor Factory created Modular_Curb_Kit_LOD0_uhxuedcdw_1
+[2021.05.08-21.22.55:047][724]LogActorFactory: Actor Factory created Modular_Curb_Kit_LOD0_uhxuedcdw_1
+[2021.05.08-21.23.13:408][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.05.08-21.23.17:377][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Curb_Kit_LOD0_uhxuedcdw_1)
+[2021.05.08-21.23.25:089][ 40]LogActorFactory: Actor Factory created Modular_Curb_Kit_LOD0_uhxuedcdw_3
+[2021.05.08-21.23.26:888][215]LogActorFactory: Actor Factory created Modular_Curb_Kit_LOD0_uhxuedcdw_3
+[2021.05.08-21.23.28:277][378]Cmd: DELETE
+[2021.05.08-21.23.28:277][378]Cmd: ACTOR DELETE
+[2021.05.08-21.23.28:279][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.08-21.23.28:283][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.08-21.23.28:284][378]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.05.08-21.23.33:918][905]Cmd: TRANSACTION UNDO
+[2021.05.08-21.23.33:918][905]LogEditorTransaction: Undo Create Actors
+[2021.05.08-21.23.37:475][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Curb_Kit_LOD0_uhxuedcdw_2)
+[2021.05.08-21.23.40:496][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Curb_Kit_LOD0_uhxuedcdw_1)
+[2021.05.08-21.23.41:045][549]Cmd: EDIT COPY
+[2021.05.08-21.23.41:285][577]Cmd: EDIT PASTE
+[2021.05.08-21.23.47:060][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Curb_Kit_LOD0_uhxuedcdw_2)
+[2021.05.08-21.23.47:420][270]Cmd: EDIT COPY
+[2021.05.08-21.23.47:698][303]Cmd: EDIT PASTE
+[2021.05.08-21.23.51:016][677]Cmd: EDIT COPY
+[2021.05.08-21.23.51:225][693]Cmd: EDIT PASTE
+[2021.05.08-21.23.54:468][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Curb_Kit_LOD0_uhxuedcdw_3)
+[2021.05.08-21.23.55:024][ 82]Cmd: EDIT COPY
+[2021.05.08-21.23.55:221][105]Cmd: EDIT PASTE
+[2021.05.08-21.24.00:094][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Curb_Kit_LOD0_uhxuedcdw_5)
+[2021.05.08-21.24.00:509][701]Cmd: EDIT COPY
+[2021.05.08-21.24.00:734][728]Cmd: EDIT PASTE
+[2021.05.08-21.24.08:820][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.05.08-21.24.09:235][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.08-21.24.11:828][973]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.08-21.24.12:177][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.08-21.24.12:260][973]PIE: New page: PIE session: ThirdPersonExampleMap (May 8, 2021, 1:24:12 PM)
+[2021.05.08-21.24.12:388][973]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.08-21.24.12:390][973]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.08-21.24.12:404][973]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.08-21.24.12:452][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048434s)
+[2021.05.08-21.24.12:465][973]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.08-21.24.12:473][973]LogPlayLevel: PIE: World Init took: (0.020641s)
+[2021.05.08-21.24.12:474][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.070230s)
+[2021.05.08-21.24.12:479][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.08-21.24.12:502][973]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.08-21.24.12:502][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.08-21.24.12:502][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.08-21.24.12:502][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.08-21.24.12:502][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.08-21.24.12:502][973]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.08-21.24.12:502][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.08-21.24.12:502][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.08-21.24.12:502][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.08-21.24.12:502][973]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.08-21.24.12:502][973]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.08-21.24.12:532][973]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.08-21.24.12:532][973]LogAudioMixer: Display: 1: FrontRight
+[2021.05.08-21.24.12:542][973]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.05.08-21.24.12:542][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.08-21.24.12:542][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.08-21.24.12:542][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.08-21.24.12:543][973]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.08-21.24.12:543][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.08-21.24.12:543][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.08-21.24.12:556][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.08-21.24.12:556][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.08-21.24.12:556][973]LogInit: FAudioDevice initialized.
+[2021.05.08-21.24.12:556][973]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.05.08-21.24.12:920][973]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.08-21.24.13:179][973]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.05.08-17.24.13
+[2021.05.08-21.24.13:232][973]LogWorld: Bringing up level for play took: 0.076584
+[2021.05.08-21.24.13:233][973]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.05.08-21.24.13:441][973]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.08-21.24.13:461][973]PIE: Server logged in
+[2021.05.08-21.24.13:463][973]PIE: Play in editor total start time 1.52 seconds.
+[2021.05.08-21.24.33:765][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.08-21.24.33:765][316]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.08-21.24.33:778][316]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.08-21.24.33:779][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.08-21.24.33:863][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.08-21.24.33:913][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.08-21.24.33:982][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.08-21.24.34:014][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.08-21.24.34:015][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.08-21.24.34:055][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.08-21.24.34:108][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.08-21.24.34:152][317]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.05.08-21.24.35:033][420]Cmd: POLY SELECT ADJACENT WALLS
+[2021.05.08-21.24.36:878][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.08-21.24.36:894][638]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/ThirdPersonExampleMap5CFC0AE244A449A1DD06C79C188DAB18.tmp' to '../../../../../projects/bankheist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.08-21.24.36:967][638]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/ThirdPersonExampleMap_BuiltDataED6CD39744E59978880252B99705A72F.tmp' to '../../../../../projects/bankheist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.08-21.24.36:975][638]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.08-21.24.36:975][638]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.08-21.24.36:975][638]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.08-21.24.39:004][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.08-21.24.39:032][855]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/ThirdPersonExampleMapDA37F8F0476C8E1B825B2EB4B386B48E.tmp' to '../../../../../projects/bankheist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.08-21.24.39:107][855]LogSavePackage: Moving '../../../../../projects/bankheist/Saved/ThirdPersonExampleMap_BuiltData51C217F54229D8CB1F7E88B5A48FE67B.tmp' to '../../../../../projects/bankheist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.08-21.24.39:118][855]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.08-21.24.39:118][855]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.05.08-21.24.39:118][855]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.08-21.24.49:282][213]LogJson: Error: Json Value of type 'Object' used as a 'String'.
+[2021.05.08-21.24.49:282][213]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.24.49:282][213]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.24.49:282][213]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.24.49:282][213]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.24.49:282][213]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.24.49:282][213]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.24.49:282][213]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.24.49:282][213]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.24.49:282][213]LogJson: Warning: Field uvChannel was not found.
+[2021.05.08-21.24.49:282][213]LogJson: Error: Json Value of type 'Null' used as a 'String'.
+[2021.05.08-21.24.49:282][213]LogJson: Warning: Field textureSets was not found.
+[2021.05.08-21.24.49:282][213]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2021.05.08-21.24.49:697][213]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\projects\UNREAL\QUIXEL\megascans\Downloaded\3d\Street_Sidewalk_vdqnddmdw\vdqnddmdw_8K_Albedo.jpg)
+[2021.05.08-21.24.50:501][213]LogTexture: Display: Building textures: Albedo_8K_vdqnddmdw (AutoDXT, 8192X8192)
